@@ -1,0 +1,92 @@
+Week 1
+
+Risk Management
+
+can go wrong - risks
+have gone wrong - issues
+
+Video games projects have two very broad risk/issua types:
+* Can we actually do (implement) this
+** Can we develop this game feature and can we deliver it within the time available
+** Will technology 'X' allow us to develop feature 'Y'
+** Will these technologies / middlewares work together
+** Is the target platform powerful enough to run these features
+** Will the art style work for this game / platform / hw
+** Can the oursourcers deliver what we want, when we want and to the quality we want
+** Can we deliver all of the levels and content within the time available and to the right level of quality (polish)
+
+* Is what we're making any fun (Development perspective)
+** Is this feature any fun?
+** Is this level any fun?
+** Does adding this feature make the game more fun ?
+** Is the game balanced?
+** How long will it take to make it fun / balanced / good ?
+
+Risk Management 101
+- Create a list of everything that you think is a risk for your project
+- Go through all of these items and assign a value for how likely you think it is to accur
+
+Date / Risk / Likelihood/ Impact / Action
+
+Likelihood - Impact (L-Low / M-Medium / H-High)
+L - L -> No worries
+L - M -> Plan a solution
+L - H -> Plan a solution
+M - L -> No worries
+M - M -> Plan a solution
+M - H -> Deal wit hit right now
+H - L -> No worries
+H - M -> Deal wit hit right now
+H - H -> Deal wit hit right now
+
+* Realistically, the risk management does two things:
+- Lets you discover and discuss risks
+- Lets you manage and process risks
+** Knowing what risks you have on a project is more than half the battle
+*** It makes you think about their solutions / mitigations
+*** And other risks that haven't surfaced yet
+** As software engineers, you end up surfacing a lot of risks
+
+In conclusion
+- Build and maintain a risk register
+- Make sure it's multi-disciplinary & feature-based
+- Re-assure everyone that it's not a witch hunt
+
+
+Quality
+"Quality is excellence, a lack of defects and value for money"
+"Management failure is duo to managers not managing processes" - Deming
+- Remove barriers to work
+- Become a learning organisation
+
+
+Quality Management
+* A typical boxed product video game will use a 3 stage development process
+- Pre-production
+- Production
+- Post-production
+
+* The quality-money-time / features-resources-time triangle of projects
+
+Effectiveness
+- How well do the outputs meet objectives
+
+Ethics
+- As a manages, can you sleep at night ? 
+
+Often, companies will do the right thing for the wrong reasons
+This can be referred as:
+- Cargo cult mindset
+- Groupthink
+
+Plan -> Do -> Test -> Review 
+
+Continuous improvement is all about testing your theories and moving on
+
+* Workers
+- Be diligent about the work you are doing
+- Be open to learning opportunities
+- Share your concerns
+- Be part of the team
+
+{!} Broken window theory

@@ -1,0 +1,20 @@
+Week 1
+
+Object Oriented principles
+Single Responsiblity principle
+
+Creative Controller!! (Alt-Controller)
+
+Contructor is placed after starting public block.
+There can be multiple constructors.
+The contructor must be the same name as the class.
+It only holds a parameters of that class.
+
+Deconstructor is called when the deleting this constructor to save memory.
+~[name](){};
+
+Any parameters/stats are called in private block.
+But giving any variables should be in public block.
+
+Don't put too much into classes
+Separate different funcitons into different classes.
