@@ -1,0 +1,45 @@
+plan-do-test-review cycle is not necessarily a bad thing:
+* A SaaS (software as a service) may look to 'test the water' by mking a MVP (min. viable product)
+  with limited features to test the market
+
+- Often programmers want to get programming as soon as possible and ignore analysis and/or design activities
+** Programming is a time consuming and (therefore) expensive activity
+** 'Prototypes# often end up becoming production systems.
+
+UML
+- 3 Parts to UML
+
+* Stakeholders
+1) Product Owner - commercial impact
+2) Business Analyst - bridge between Product owner (PO) and technical (ARCH)
+3) Architect - in charge of delivering the technical aspect of the project
+4) Developer - code master
+5) Quality Assurance - testing the project
+6) Operations - responsible maintaining the running software system
+
+* System Behaviour
+- The 'what' the system does
+- Modelled with four models of increasing details
+1) Use Case - defines user tasks (all about what users do, rather than how they do it)
+2) Sequence Diagram - defines interaction between classes
+3) State Diagram - defines state behaviour inside a class
+4) Activity diagram - defines workflow and operations
+
+* System Structure
+1) Class Diagram - defines classes
+2) Component Diagram - defines components
+
+What is OO philosophy
+- Encapsulation
+- Information hiding
+- Inheritance
+- Polimorphism
+
+Designing solutions (Booch)
+- Booch has a useful approach for doing coarse design, based on linguistic decomposition:
+* Nouns are classes
+* Verbs are methods
+* Adjectives are attributes
+
+- Iterate as necessary
+
