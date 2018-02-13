@@ -1,0 +1,16 @@
+Plan -> Do -> Test -> Review
+The difference between games design and technical design/implementation
+
+Plan - making sure what is more important to see in a game (more fun).
+Do - generally, this is all about actually implementing features.
+Test - It makes a olt of sense to have designers driving test:
+	* Designers are the effective customers for the systems programmers have implemented.
+	* Programmers are terrible at testing their code.
+	* This is answering the 'does it work' question.
+Review - It makes a lot of sense to have designers driving this stage:
+	* Designers will have a better idea of overall 'big picture' of the game.
+	* This is answering 'is it fun' question.
+	* Programmers also need to answer the 'does it work' question.
+
+{!} http://gameprogrammingpatterns.com
+
