@@ -1,0 +1,13 @@
+jobs.gamesindustry.biz
+
+Can use state machines to divide & conquer functionality
+Benefits:
+* Makes you focus on small bits
+* Easy to manage
+Costs:
+* Need to consider global scope of game components (or a lot of parameters passing in functions)
+* More complex than having monolithic update() & draw() functions, but more flexible
+* Folowing state changes can be troublesome
+
+Most video games are centred around list proccesing
+A lot of games programming is about know which lists to put which objects in and what to process against what
